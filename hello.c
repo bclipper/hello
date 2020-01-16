@@ -7,5 +7,7 @@ Date:1/16/2020
 int main(void) {
      printf("Ben Clipperton\n");
      printf("Electrical Engineering\n");
+     printf("Alvin Wong\n")
+     printf("Computer Science\n")
 	 return 0;
 }
